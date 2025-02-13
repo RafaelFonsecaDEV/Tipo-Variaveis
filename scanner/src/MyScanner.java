@@ -20,6 +20,11 @@ public class MyScanner {
     System.out.println("Digite sua altura");
     double altura = scanner.nextDouble();
 
+    System.out.println(
+        " ola, me chamo" + nome + "" + sobrenome +
+            " tenho " + idade + "anos" + " e tenho "
+            + altura + "de altura");
+
   }
 
 }
