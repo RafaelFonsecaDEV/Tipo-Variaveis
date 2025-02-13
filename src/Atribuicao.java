@@ -15,6 +15,32 @@ public static void main (String [] args){
    
     System.out.println(numero);
 
+   numero ++; // incrementa 1
+
+      System.out.println(numero);
+
+      numero  -- ;// decrementa 1
+
+      System.out.println(numero);
+
+       numero += 5; // incrementa 5
+
+       System.out.println(numero);
+
+       numero -= 5;// decrementa 5 
+
+       System.out.println(numero);
+
+    
+    // boleano 
+
+    boolean Variavel = true;
+
+    Variavel = !Variavel; // inverter o valor
+
+    System.out.println(Variavel);
+
+
 }
 
 }
